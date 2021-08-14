@@ -11,5 +11,8 @@
     "url": "\u001b[D\u001b[D.git)"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
